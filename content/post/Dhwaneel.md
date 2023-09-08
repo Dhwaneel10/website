@@ -14,6 +14,6 @@ aliases = ["migrate-from-jekyl"]
 
 Hi Guys, You are also welcome to follow me on Social Media
 
-GitHub : "https://github.com/Dhwaneel10"
+GitHub : " https://github.com/Dhwaneel10 "
 
 Instagram : 'https://www.instagram.com/_dhwaneelpandya.10/?utm_source=qr&igshid=MzNINGNkZWQ4Mg=='
